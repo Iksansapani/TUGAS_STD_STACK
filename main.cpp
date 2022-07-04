@@ -64,11 +64,11 @@ int main() {
 		cout<<"	PROGRAM STACK 2IA01	"<<endl;
 		cout<<"\n=================================== \n" <<endl;
 		cout <<"1. Create Stack Baru(CREATE)\n"
-        << "2. Input (Push)\n"
-        <<"3. Hapus (Pop)\n"
-        <<"4. Keluar\n"
-		<<"\n=================================== \n"
-        <<" Masukkan Pilihan: ";
+       		     <<"2. Input (Push)\n"
+        	     <<"3. Hapus (Pop)\n"
+        	     <<"4. Keluar\n"
+		     <<"\n=================================== \n"
+        	     <<" Masukkan Pilihan: ";
 		cin >> pilihan;
 		switch (pilihan)
 		{
