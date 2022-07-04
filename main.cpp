@@ -61,7 +61,7 @@ int main() {
 	do {
     printStack();
 		cout<<"\n=================================== \n" <<endl;
-		cout<<"	PROGRAM STACK 2IA01	"<<endl;
+		cout<<"	PROGRAM STACK 2IA01 "<<endl;
 		cout<<"\n=================================== \n" <<endl;
 		cout <<"1. Create Stack Baru(CREATE)\n"
        		     <<"2. Input (Push)\n"
