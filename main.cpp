@@ -1,7 +1,7 @@
 #include <iostream>
 #define MAX 5
 /*IKSAN SAPANI (1121031004)
-MAIN : PROGRAM STACK MENGGUNAKAN BAHASA PEMROGRAMAN C++S
+MAIN : PROGRAM STACK MENGGUNAKAN BAHASA PEMROGRAMAN C++
 */
 using namespace std;
 //Deklarasi struct tumpukan
